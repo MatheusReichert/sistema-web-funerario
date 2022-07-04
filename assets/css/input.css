@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.servicos{
+    background-image: url("../img/bg-servicos.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
+
+
+.home{
+    background-image: url("../img/banner-main-caixoes.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
+
+.contatos{
+    background-image: url("../img/vo-ve-e-te-aviso.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.table th:first-child {
+    position: relative;
+}
+
